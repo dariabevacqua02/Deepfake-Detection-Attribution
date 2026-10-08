@@ -119,7 +119,7 @@ pip install torch torchvision pandas numpy matplotlib seaborn scikit-learn pillo
 
 ## Tech Stack
 
-`PyTorch` · `torchvision` · `scikit-learn` · `pandas` / `NumPy` · `Matplotlib` / `Seaborn` · `ThreadPoolExecutor` (parallel pre-caching)
+`PyTorch` · `torchvision` · `scikit-learn` · `pandas` / `NumPy` · `Matplotlib` / `Seaborn` · `ThreadPoolExecutor` (parallel pre-caching).
 
 ## Acknowledgments
 
